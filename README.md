@@ -18,9 +18,9 @@ Deze speelt een soort text-adventure, maar dan met spraak!
 
 ## Portfolio
 
--[Onderzoek]([https://github.com/Spraxs/input-output-webhook/blob/master/Portfolio/P01%20-%20Onderzoek.docx](https://github.com/Spraxs/input-output-webhook/blob/master/Portfolio/P01 - Onderzoek.docx))
+-[Onderzoek](https://github.com/Spraxs/input-output-webhook/blob/master/Portfolio/P01 - Onderzoek.docx)
 
--[Ontwerp]([https://github.com/Spraxs/input-output-webhook/blob/master/Portfolio/P02%20-%20Ontwerp%20document.docx](https://github.com/Spraxs/input-output-webhook/blob/master/Portfolio/P02 - Ontwerp document.docx))
+-[Ontwerp](https://github.com/Spraxs/input-output-webhook/blob/master/Portfolio/P02%20-%20Ontwerp%20document.docx)
 
 -[Testrapportage](https://github.com/Spraxs/input-output-webhook/blob/master/Portfolio/P03%20-%20Test%20rapportage.docx)
 
