@@ -1,8 +1,27 @@
-Dit is de repo van ons project zonder database gegevens. Waarom een hele aparte repo do u ask?
-Misschien staan ze niet meer in de repo, maar wel in de commits... Lekker stom dus.
+## Special Input/Output
 
-[Onze commits](https://github.com/Spraxs/input-output-webhook/blob/master/commits.PNG)
+Team:
 
-[User registration and data getter](https://github.com/Spraxs/input-output-webhook/blob/master/index.php)
+1. Jaimy
 
-[Input manager](https://github.com/Spraxs/input-output-webhook/blob/master/controllers/levelController.php)
+2. Sjors
+
+   
+
+## Ontwerp
+
+Story Travels is een extensie voor de Google Assistent. 
+
+Deze speelt een soort text-adventure, maar dan met spraak!
+
+
+
+## Portfolio
+
+-[Onderzoek]()
+
+-Ontwerp
+
+-Testrapportage
+
+-[Presentatie](https://docs.google.com/presentation/d/1ruOGrFzfQv61ofd3WCjILTpJEf7x6PYqadvEnN9dkfU/edit?usp=sharing)
