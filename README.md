@@ -18,10 +18,10 @@ Deze speelt een soort text-adventure, maar dan met spraak!
 
 ## Portfolio
 
--[Onderzoek]()
+-[Onderzoek]([https://github.com/Spraxs/input-output-webhook/blob/master/Portfolio/P01%20-%20Onderzoek.docx](https://github.com/Spraxs/input-output-webhook/blob/master/Portfolio/P01 - Onderzoek.docx))
 
--Ontwerp
+-[Ontwerp]([https://github.com/Spraxs/input-output-webhook/blob/master/Portfolio/P02%20-%20Ontwerp%20document.docx](https://github.com/Spraxs/input-output-webhook/blob/master/Portfolio/P02 - Ontwerp document.docx))
 
--Testrapportage
+-[Testrapportage](https://github.com/Spraxs/input-output-webhook/blob/master/Portfolio/P03%20-%20Test%20rapportage.docx)
 
 -[Presentatie](https://docs.google.com/presentation/d/1ruOGrFzfQv61ofd3WCjILTpJEf7x6PYqadvEnN9dkfU/edit?usp=sharing)
